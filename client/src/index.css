@@ -1,0 +1,35 @@
+:root{
+     --input-bg:#051622;
+     --black:#fff;
+}
+
+*{
+     margin: 0;
+     padding:0;
+     box-sizing: border-box;
+}
+
+body{
+     background-color: var(--input-bg) !important;
+     max-width: 100%;
+     color: var(--black);
+     max-height: 500vh;
+}
+
+.carousel{
+     height: 600px !important;
+     background-size: cover;
+}
+
+.button{
+     background-color: #D76F30 !important;
+     color: #fff !important;
+}
+
+.hover:hover{
+     overflow: hidden !important;
+     transform: scale(1.1) !important;
+     z-index: -100 !important;
+     transition: 0.5s !important;
+     cursor: pointer !important;
+}

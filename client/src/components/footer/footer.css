@@ -1,0 +1,43 @@
+footer {
+  margin-top: 15px;
+  background-color: #0b4141;
+  padding: 30px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  height: 15rem;
+}
+
+
+
+.foot-panel ul p {
+  color: rgb(128, 183, 238);
+}
+
+.foot-panel .image {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 60px 25px 11px 11px;
+  border: 2px solid rgb(128, 183, 238);
+}
+
+.foot-panel .image:hover {
+  border: 2px solid #1d2228;
+  transform: scale(1.1);
+  transition: all 0.3s linear;
+}
+
+ul a {
+  display: block;
+  font-size: 1rem;
+  margin-top: 10px;
+}
+
+ul {
+  margin-top: 10px;
+}
+
+ul a:hover {
+  text-decoration: underline;
+  color: #498ee8;
+}

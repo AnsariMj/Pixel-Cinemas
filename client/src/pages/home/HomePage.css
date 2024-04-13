@@ -1,0 +1,18 @@
+.home{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 80px;
+    margin-top: 20px;
+}
+.show{
+    /* font-size: 50px;
+    color: var(--black); */
+    text-align: center;
+}
+.coming{
+    font-size: 50px;
+    color: var(--black);
+    text-align: center;
+}

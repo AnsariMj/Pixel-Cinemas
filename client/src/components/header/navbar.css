@@ -1,0 +1,23 @@
+.header {
+     backdrop-filter: blur(10px);
+     filter: blur(10px);
+     background: rgba(255, 255, 255, 0.5); /* Adjust the color and alpha as needed */
+     padding: 20px;
+     border-radius: 10px;
+ }
+ 
+ 
+ .image {
+      width: 3rem;
+      height: 3rem;
+      border-radius: 60px 25px 11px 11px;
+      border: 2px solid rgb(104, 105, 106);
+ 
+ }
+ 
+ .image:hover {
+      border: 2px solid rgb(128, 183, 238);
+      transform: scale(1.1);
+      transition: all 0.3s linear;
+ }
+ 
