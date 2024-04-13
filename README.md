@@ -1,6 +1,8 @@
 # link : https://ticket-client.vercel.app/
 
-
+Built with the latest technology MERN Stack, frontend design with React and tailwind
+whereas backend is built with NodsJs, Express and MongoDb. Purchasing movie tickets
+online and get new movie alerts in registered email are some features of this system.
 
 ![image](https://github.com/AnsariMj/Ticket_client/assets/101396710/2995fa19-75dc-4d0d-b04a-f38851a08565)
 ![image](https://github.com/AnsariMj/Ticket_client/assets/101396710/99e0cc3d-2355-45ef-854c-609ce6090bb0)
